@@ -46,10 +46,10 @@ const projectList = [
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/viswavardhanchary/viswa2",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Javascript Learning 10 project in 10 Days",
     description:
       "Success Fully completed 10 projects in 10 days with the help of udemy and understood the basics of javascript and learned the advanced topics.",
     url: "https://www.udemy.com/certificate/UC-d92a1ac7-ee6d-43f8-a65e-d40a773ff2c7/",

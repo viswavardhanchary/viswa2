@@ -34,7 +34,7 @@ const skillsList = [
   "Web design",
   "User experience",
   "Inclusive design",
-  "Focus group testing",
+  "Data structures and Algorithms",
   "Mobile user interfaces",
   "Graphic design",
 ];
