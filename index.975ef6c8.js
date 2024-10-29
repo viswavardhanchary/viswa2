@@ -28644,7 +28644,8 @@ const Home = ({ name , title  })=>{
                     position: "absolute",
                     top: "5rem",
                     left: "2rem",
-                    width: "17rem"
+                    width: "25rem",
+                    color: "white"
                 },
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
@@ -28671,7 +28672,8 @@ const Home = ({ name , title  })=>{
                 style: {
                     position: "absolute",
                     bottom: "3rem",
-                    left: "50%"
+                    left: "50%",
+                    color: "white"
                 },
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                     src: (0, _downArrowSvgDefault.default),
