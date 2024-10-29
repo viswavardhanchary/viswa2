@@ -27093,7 +27093,7 @@ var _stylesCss = require("./styles.css");
     gitHub: "viswavardhanchary",
     instagram: "",
     linkedIn: "viswa-vardhan-chary",
-    medium: "English",
+    medium: "",
     twitter: "",
     youTube: ""
 };
