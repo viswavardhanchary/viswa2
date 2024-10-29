@@ -27087,12 +27087,12 @@ var _stylesCss = require("./styles.css");
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
-    name: "E. viswa vradhan chary",
+    name: "E. Viswa Vardhan Chary",
     title: "Web Developer and Coder",
-    email: "",
+    email: "viswavardhanchary@gmail.com",
     gitHub: "https://github.com/viswavardhanchary",
     instagram: "",
-    linkedIn: "viswa-vardhan-chary",
+    linkedIn: "https://www.linkedin.com/in/viswa-vardhan-chary",
     medium: "",
     twitter: "",
     youTube: ""
@@ -28644,11 +28644,14 @@ const Home = ({ name , title  })=>{
                     position: "absolute",
                     top: "5rem",
                     left: "2rem",
-                    width: "25rem",
+                    width: "30rem",
                     color: "white"
                 },
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+                        style: {
+                            color: "white"
+                        },
                         children: name
                     }, void 0, false, {
                         fileName: "src/Components/Home.jsx",
@@ -28656,6 +28659,9 @@ const Home = ({ name , title  })=>{
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                        style: {
+                            color: "white"
+                        },
                         children: title
                     }, void 0, false, {
                         fileName: "src/Components/Home.jsx",
