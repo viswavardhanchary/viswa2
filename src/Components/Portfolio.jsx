@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Career Essential in Software Development by Microsoft 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Understood about the career Essential in doftware development and working in that path to achevie my Goal.",
+    url: "https://www.linkedin.com/learning/certificates/86c04a50962006ed100c64e30cbc59b4d8ba16ee197d4f0646ee045d6853542c",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Front-End Software Engineering Job Simulation",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A beautyfull experience about the front-end job simulation and understood how to code in the real time industry",
+    url: "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Skyscanner/km4rw7dihDr3etqom_Skyscanner_uBBsMj28wqT66TzAE_1728824548854_completion_certificate.pdf",
   },
   {
     title: "My Resume Site",
@@ -51,8 +51,8 @@ const projectList = [
   {
     title: "GitHub Codespaces and github.dev",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Success Fully completed 10 projects in 10 days with the help of udemy and understood the basics of javascript and learned the advanced topics.",
+    url: "https://www.udemy.com/certificate/UC-d92a1ac7-ee6d-43f8-a65e-d40a773ff2c7/",
   },
 ];
 
