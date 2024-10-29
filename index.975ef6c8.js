@@ -27090,10 +27090,10 @@ var _stylesCss = require("./styles.css");
     name: "E. Viswa Vardhan Chary",
     title: "Web Developer and Coder",
     email: "viswavardhanchary@gmail.com",
-    gitHub: "https://github.com/viswavardhanchary",
+    gitHub: "viswavardhanchary",
     instagram: "",
-    linkedIn: "https://www.linkedin.com/in/viswa-vardhan-chary",
-    medium: "",
+    linkedIn: "viswa-vardhan-chary",
+    medium: "English",
     twitter: "",
     youTube: ""
 };
